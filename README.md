@@ -47,7 +47,7 @@ We used official implementations of two YOLO models:
 
 https://github.com/your-username/dynamic-adas/assets/demo_video.mp4
 
-![Sample Output]()
+![Sample Output](Overall model result.png)
 
 
 ## 📦 Model Files
