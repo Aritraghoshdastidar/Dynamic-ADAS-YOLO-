@@ -41,4 +41,44 @@ We used official implementations of two YOLO models:
   Used when system resources (CPU/RAM) are constrained.
 
 > Note: Ensure you clone the respective repositories and install all required dependencies as mentioned in their documentation before training or running inference.
+>
+> 
+## 🎥 Demo Video
+
+https://github.com/your-username/dynamic-adas/assets/demo_video.mp4
+
+> 🔽 Click the image to view the demo:
+
+[![Watch the video](media/screenshot1.png)](media/demo_video.mp4)
+
+## 📦 Model Files
+
+Due to GitHub's file size limitations (100MB max per file on the free tier), we could not upload our trained YOLO models (`yolov7x_best.pt` and `yolov11s_best.pt`) to this repository.
+
+> 🔗 If you'd like access to the models for testing, please contact the authors.
+
+
+## 🛠️ Technologies Used
+
+- Python
+- YOLOv7 and YOLOv11S (Ultralytics)
+- OpenCV
+- psutil
+- PyTorch
+- TensorRT (planned)
+- ONNX Runtime (planned)
+
+## 📈 Future Work
+
+- Integrate GPU-based switching
+- Add LiDAR + camera fusion (multimodal)
+- Deploy to Jetson Nano / Raspberry Pi and benchmark FPS
+- Add alert system (pedestrian crossing, etc.)
+
+## 👨‍💻 Authors
+
+- Aritra Ghosh Dastidar
+- Disha Bharadwaj
+- Dhatri P Sriram
+- Austin
 
