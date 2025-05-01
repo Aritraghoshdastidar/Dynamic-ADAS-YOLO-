@@ -51,7 +51,8 @@ FOR 11S:
 
 FOR 7X:
 
-.[![Watch the demo](https://youtu.be/cIjDnH12Plc?si=GQBmwLFnNuOLvgZq).
+[![Watch the demo](https://img.youtube.com/vi/cIjDnH12Plc/0.jpg)](https://youtu.be/cIjDnH12Plc)
+
 > 📺 Click the thumbnail above to watch our ADAS demo on YouTube.
 
 ![Sample Output](overall_model_result.png)
