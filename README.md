@@ -48,6 +48,7 @@ FOR 11S:
 
 
 [![Watch the demo](https://img.youtube.com/vi/Hw6mkoFzk5g/0.jpg)](https://youtu.be/Hw6mkoFzk5g)
+> 📺 Click the thumbnail above to watch our ADAS demo on YouTube.
 
 ![Sample Output](overall_model_result.png)
 Detailed results are there under results of their respective model.
