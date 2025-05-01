@@ -44,10 +44,11 @@ We used official implementations of two YOLO models:
 >
 > 
 ## 🎥 Demo Video
-
-https://github.com/your-username/dynamic-adas/assets/demo_video.mp4
+FOR 11S:
+[https://github.com/your-username/dynamic-adas/assets/demo_video.mp4](https://youtu.be/Hw6mkoFzk5g)
 
 ![Sample Output](overall_model_result.png)
+Detailed results are there under results of their respective model.
 
 
 ## 📦 Model Files
