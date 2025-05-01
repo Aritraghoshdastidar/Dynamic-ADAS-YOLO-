@@ -44,12 +44,12 @@ We used official implementations of two YOLO models:
 >
 > 
 ## 🎥 Demo Video
-FOR 11S:
+FOR 11S: (click on the pic to play it)
 
 
 [![Watch the demo](https://img.youtube.com/vi/Hw6mkoFzk5g/0.jpg)](https://youtu.be/Hw6mkoFzk5g)
 
-FOR 7X:
+FOR 7X:(click on the pic to play it)
 
 [![Watch the demo](https://img.youtube.com/vi/cIjDnH12Plc/0.jpg)](https://youtu.be/cIjDnH12Plc)
 
