@@ -52,7 +52,7 @@ FOR 11S:
 
 ![Sample Output](overall_model_result.png)
 Detailed results are there under results of their respective model.
-⚠️ While we acknowledge that the current results are not fully satisfactory, they were achieved under significant hardware limitations, strict deadlines, and limited time for optimization. We are actively working on improving the model’s precision and recall, which will require further tuning and experimentation in future iterations.
+-⚠️ While we acknowledge that the current results are not fully satisfactory, they were achieved under significant hardware limitations, strict deadlines, and limited time for optimization. We are actively working on improving the model’s precision and recall, which will require further tuning and experimentation in future iterations.
 
 
 ## 📦 Model Files
